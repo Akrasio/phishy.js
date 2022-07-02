@@ -1,0 +1,17 @@
+{
+  "name": "phishy.js",
+  "version": "0.0.2",
+  "description": "An API wrapper made for phisherman.gg",
+  "main": "phishy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+	"API",
+	"phisherman",
+	"anti-phishing",
+	"discord"
+  ],
+  "author": "nyxrdev",
+  "license": MIT"
+}
